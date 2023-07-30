@@ -1,0 +1,16 @@
+{
+  "name": "fighting-game",
+  "version": "1.0.0",
+  "description": "One on one fighting game made in JavaScript",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "erkand.imeri@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.4.7"
+  }
+}
